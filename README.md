@@ -22,6 +22,7 @@ A quick little workflow to open tools, verses, and guides in Logos or search the
 3. Open Raycast preferences ( <kbd>cmd</kbd> + <kbd>,</kbd> ).
 4. Click on **Extensions**.
 5. Click **+** (or press <kbd>cmd</kbd> + <kbd>n</kbd>) and choose **Add Script directory**.
+![Add Script Directory](./metadata/add-script-directory.png)
 6. Locate the folder on your computer (from step #2 above) in the file provider and click **Open**.
 
 ## Usage
@@ -37,6 +38,7 @@ You can assign an Alias or a Hotkey from the Raycast Extension settings.
 1. Invoke Raycast and open the Settings (<kbd>cmd</kbd> + <kbd>,</kbd>).
 2. Click **Extensions**
 3. Find your script(s) and add a keyboard shortcut for **alias** and/or **hotkey**.
+![Adding aliases](./metadata/add-alias.png)
 
 ## Current Scripts Included
 I’ve included the following sets of scripts.
@@ -226,6 +228,7 @@ I’ve included the following sets of scripts.
 </details>
 
 ## Planned Improvements
+- [x] Added images showing steps
 - [ ] Provide documentation on customizing script
 - [ ] Add additional guides
 - [ ] Add additional tools

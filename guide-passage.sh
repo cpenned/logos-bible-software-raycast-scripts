@@ -15,4 +15,4 @@
 # @raycast.author cpenned
 # @raycast.authorURL @cpenned on Twitter
 
-open "logos4:Guide;t=My_Passage_Guide;ref=Bible.$1"
+open "logos4:Guide;t=My_Passage_Guide;ref=BibleESV.$1"
