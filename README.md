@@ -219,6 +219,15 @@ I’ve included the following sets of scripts.
 </details>
 
 <details>
+<summary>Open Sermon Manager</summary>
+
+- Description: Open Logos Bible Software to the Sermon Manager
+- Parameters: none
+- Suggested alias: `osm`
+
+</details>
+
+<details>
 <summary>Open Text Comparision Tool</summary>
 
 - Description: Open Logos Bible Software to Text Comparison Tool with provided query
