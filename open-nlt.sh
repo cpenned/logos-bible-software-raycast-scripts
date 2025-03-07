@@ -16,4 +16,3 @@
 # @raycast.authorURL @cpenned on Twitter
 
 open "logosres:nlt;ref=BibleNLT.$1"
-
